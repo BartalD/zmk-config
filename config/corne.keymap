@@ -14,12 +14,17 @@
 
         Ctrl+Bksp {
             bindings = <&kp LC(BACKSPACE)>;
-            key-positions = <18 19>;
+            key-positions = <19 20>;
         };
 
         Ctrl+Del {
             bindings = <&kp LC(DEL)>;
-            key-positions = <18 20>;
+            key-positions = <19 21>;
+        };
+
+        Eth {
+            bindings = <&kp RA(D)>;
+            key-positions = <21 22>;
         };
     };
 
