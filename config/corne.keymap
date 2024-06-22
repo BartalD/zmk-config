@@ -26,6 +26,11 @@
             bindings = <&kp RA(D)>;
             key-positions = <21 22>;
         };
+
+        Omnibar {
+            bindings = <&kp LA(SPACE)>;
+            key-positions = <38 39>;
+        };
     };
 
     keymap {
