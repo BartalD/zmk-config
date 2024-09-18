@@ -43,6 +43,11 @@
             bindings = <&out OUT_TOG>;
             key-positions = <23 12>;
         };
+
+        Esc {
+            bindings = <&kp ESC>;
+            key-positions = <13 22>;
+        };
     };
 
     keymap {
