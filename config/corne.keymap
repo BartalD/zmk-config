@@ -46,7 +46,12 @@
 
         Esc {
             bindings = <&kp ESC>;
-            key-positions = <13 22>;
+            key-positions = <21 14>;
+        };
+
+        Tab {
+            bindings = <&kp TAB>;
+            key-positions = <14 15>;
         };
     };
 
