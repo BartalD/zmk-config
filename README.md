@@ -7,6 +7,6 @@ The main goal of the config is to find a 42-key layout that can accomodate the N
 
 Further sub-goals include:
 - [x] Access to numbers in a numpad layout instead of in a row.
-- [ ] Easy access to ```´``` in order to write characters such as ```á```, ```í```,```ú```,```ó``` and ```ý```.
+- [x] Easy access to ```´``` in order to write characters such as ```á```, ```í```,```ú```,```ó``` and ```ý```.
 - [ ] Installation of batteries in order to have true wireless capabilities.
   - [ ] Soldering on nice!view displays for battery monitoring. 
